@@ -1,0 +1,4 @@
+Functionality:
+-clicking on member of carousel focuses it to the centre
+-click-dragging scrolls the carousel
+	-closest member to the centre when click is released should be the one that snaps to the centre
